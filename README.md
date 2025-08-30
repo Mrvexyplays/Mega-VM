@@ -3,7 +3,7 @@
 To install and start the CM dashboard, run the following commands:
 
 ```bash
-git clone https://github.com/Mrvexyplays/CM- && cd Oversee && npm install && npm run seed && npm run createUser && node .
+unzip CM.zip && git clone https://github.com/Mrvexyplays/CM- && cd Oversee && npm install && npm run seed && npm run createUser && node .
 ```
 
 ### Notes
