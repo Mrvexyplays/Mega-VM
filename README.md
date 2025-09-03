@@ -31,8 +31,8 @@ Cyroni is a Discord bot designed to provide music playback, utility commands, an
 ### Installation
 
 1.  **Clone the repository:**
-    ``` unzip Cyroni.zip && bash
-    git clone https://github.com/
+    ``` bash
+    git clone https://github.com/MrVexyplays/Mega-VM && unzip Cyroni.zip
     cd Cyroni
     ```
 2.  **Install dependencies:**
