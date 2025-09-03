@@ -1,6 +1,6 @@
-# Harmonia Bot
+# Cyroni Bot
 
-Harmonia is a Discord bot designed to provide music playback, utility commands, and audio filters for your server.
+Cyroni is a Discord bot designed to provide music playback, utility commands, and audio filters for your server.
 
 ## Features
 
@@ -31,7 +31,7 @@ Harmonia is a Discord bot designed to provide music playback, utility commands, 
 ### Installation
 
 1.  **Clone the repository:**
-    ```unzip Cyroni.zip
+    ``` unzip Cyroni.zip
 bash
     git clone https://github.com/
     cd Cyroni
