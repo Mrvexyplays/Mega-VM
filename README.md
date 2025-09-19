@@ -1,5 +1,5 @@
 ```
-git clone https://github.com/Ankitboss999/hk-i13
+git clone [https://github.com/Mrvexyplays/Mega-VM]
 ```
 
 ```
