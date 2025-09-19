@@ -1,5 +1,6 @@
 ```
-git clone [https://github.com/Mrvexyplays/Mega-VM]
+git clone
+https://github.com/Mrvexyplays/Mega-VM
 ```
 
 ```
